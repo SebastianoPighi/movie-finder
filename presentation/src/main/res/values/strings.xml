@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie Finder</string>
+    <string name="api_base_url">https://api.themoviedb.org/3/</string>
+    <string name="api_key">Paste here your API key</string>
+    <string name="movies">Movies</string>
+    <string name="movie_details">Movie details</string>
+    <string name="search_movie">Search a movie…</string>
+    <string name="no_api_key_error_title">No API key found</string>
+    <string name="no_api_key_error">Please register to THE MOVIE DB (https://developers.themoviedb.org/3/getting-started/introduction), grab your API key and paste it inside \"api_key\" string resource.</string>
+    <string name="no_connection_error_title">No Internet connection</string>
+    <string name="no_connection_error">There\'s no active Internet connection found. Please connect your smartphone to the Internet and retry.</string>
+    <string name="generic_networking_error_title">Loading error</string>
+    <string name="generic_networking_error">An error occurred while loading data. Please retry.</string>
+    <string name="retry">Retry</string>
+    <string name="ok">Ok</string>
+    <string name="loading_new_movies">Loading new movies…</string>
+</resources>
